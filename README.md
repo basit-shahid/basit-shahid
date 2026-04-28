@@ -16,9 +16,11 @@
 - 📚 **Foundations:** Deep-diving into Data Structures, Algorithms, and Object-Oriented Programming.
 
 ### 📊 GitHub Stats & Animations
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-shahid&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=basit-shahid&theme=tokyonight" />
 </p>
 
 ### 🐍 Contribution Snake
