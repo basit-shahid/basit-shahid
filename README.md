@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm ABDUL BASIT SHAHID 👋
 
-<!--
-**basit-shahid/basit-shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer&fontSize=70" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Current Focus
+- 🔭 **Project:** Refining a **Point-of-Sale (POS) Invoicing System** optimized for mobile environments.
+- ⚙️ **Architecture:** Exploring high-performance concurrency engines and HTTP clients.
+- 📚 **Foundations:** Deep-diving into Data Structures, Algorithms, and Object-Oriented Programming.
+
+### 📊 GitHub Stats & Animations
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" />
+</p>
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME]/blob/output/github-contribution-grid-snake.svg)
+
+---
