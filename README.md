@@ -22,6 +22,6 @@
 </p>
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/basit-shahid/basit-shahid/output/github-contribution-grid-snake.svg)
 
 ---
