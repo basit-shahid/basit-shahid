@@ -111,7 +111,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=basit-shahid&theme=onedark)](https://github.com/basit-shahid/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
