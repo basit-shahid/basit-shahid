@@ -101,7 +101,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=basit-shahid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=basit-shahid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -111,7 +111,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
