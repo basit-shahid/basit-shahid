@@ -114,11 +114,18 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 </p>
 
 
+## 🏆 Open Source Trophies
+
+<div align="center">
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
   </a>
 </p>
+
+</div>
+
 
 <br/>
 
