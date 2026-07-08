@@ -94,6 +94,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
 
 <a href="https://github.com/basit-shahid"><img src="https://komarev.com/ghpvc/?username=basit-shahid&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" /></a>
@@ -101,6 +102,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <a href="https://github.com/basit-shahid"><img src="https://img.shields.io/badge/LAHORE-111318?style=for-the-badge&logo=googlemaps&logoColor=64D2FF" alt="Location" /></a>
 
 <br/><br/>
+
 
 
 <p align="center">
@@ -115,6 +117,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 
 ## 🏆 Open Source Trophies
+
 
 <div align="center">
 
