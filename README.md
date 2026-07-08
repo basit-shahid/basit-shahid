@@ -94,7 +94,6 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 ## 📈 GitHub Stats
 
-
 <div align="center">
 
 <a href="https://github.com/basit-shahid"><img src="https://komarev.com/ghpvc/?username=basit-shahid&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" /></a>
@@ -102,6 +101,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <a href="https://github.com/basit-shahid"><img src="https://img.shields.io/badge/LAHORE-111318?style=for-the-badge&logo=googlemaps&logoColor=64D2FF" alt="Location" /></a>
 
 <br/><br/>
+
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
@@ -122,10 +122,6 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&bg_color=00000000&color=A1A1A6&line=38bdf8&point=8E5CFF&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Telemetry" alt="GitHub contribution activity graph" />
-
-</div>
----
 
 ## 🎯 Current Focus
 
