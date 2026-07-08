@@ -94,6 +94,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
 
 <a href="https://github.com/basit-shahid"><img src="https://komarev.com/ghpvc/?username=basit-shahid&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" /></a>
@@ -111,6 +112,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
