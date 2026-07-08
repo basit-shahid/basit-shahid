@@ -183,8 +183,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=basit-shahid&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
