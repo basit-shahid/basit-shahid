@@ -1,13 +1,19 @@
 <div align="center">
 
 <!-- Animated Header Banner (theme-aware) -->
-<img width="100%" alt="Abdul Basit Shahid banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=Abdul%20Basit%20Shahid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20COMSATS%20Lahore&descAlignY=58&descSize=16&animation=fadeIn#gh-dark-mode-only" />
-<img width="100%" alt="Abdul Basit Shahid banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:ddd6fe,100:ede9fe&height=200&section=header&text=Abdul%20Basit%20Shahid&fontSize=52&fontColor=1e1b4b&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20COMSATS%20Lahore&descAlignY=58&descSize=16&animation=fadeIn#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=Abdul%20Basit%20Shahid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20COMSATS%20Lahore&descAlignY=58&descSize=16&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:ddd6fe,100:ede9fe&height=200&section=header&text=Abdul%20Basit%20Shahid&fontSize=52&fontColor=1e1b4b&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20COMSATS%20Lahore&descAlignY=58&descSize=16&animation=fadeIn">
+  <img width="100%" alt="Abdul Basit Shahid banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=Abdul%20Basit%20Shahid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20COMSATS%20Lahore&descAlignY=58&descSize=16&animation=fadeIn">
+</picture>
 
 <!-- Typing Animation (theme-aware) -->
 <a href="https://github.com/basit-shahid">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Basit+%F0%9F%91%8B;BSE+Student+%40+COMSATS+Lahore+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+OOP+%7C+DSA+Developer;Laravel+Framework+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A#gh-dark-mode-only" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Basit+%F0%9F%91%8B;BSE+Student+%40+COMSATS+Lahore+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+OOP+%7C+DSA+Developer;Laravel+Framework+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Basit+%F0%9F%91%8B;BSE+Student+%40+COMSATS+Lahore+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+OOP+%7C+DSA+Developer;Laravel+Framework+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Basit+%F0%9F%91%8B;BSE+Student+%40+COMSATS+Lahore+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+OOP+%7C+DSA+Developer;Laravel+Framework+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Basit+%F0%9F%91%8B;BSE+Student+%40+COMSATS+Lahore+%F0%9F%8E%93;C%2B%2B+%7C+Java+%7C+OOP+%7C+DSA+Developer;Laravel+Framework+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A">
+</picture>
 </a>
 
 <br/><br/>
@@ -113,16 +119,25 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10#gh-dark-mode-only" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6d28d9&icon_color=7c3aed&text_color=1f2937&border_radius=10#gh-light-mode-only" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10#gh-dark-mode-only" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6d28d9&text_color=1f2937&layout=compact&border_radius=10#gh-light-mode-only" alt="Top Languages" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6d28d9&icon_color=7c3aed&text_color=1f2937&border_radius=10">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6d28d9&text_color=1f2937&layout=compact&border_radius=10">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" height="170">
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10#gh-dark-mode-only" alt="GitHub Streak"/>
-  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=default&hide_border=true&background=ffffff&stroke=1f2937&ring=7c3aed&fire=6d28d9&currStreakLabel=6d28d9&border_radius=10#gh-light-mode-only" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=default&hide_border=true&background=ffffff&stroke=1f2937&ring=7c3aed&fire=6d28d9&currStreakLabel=6d28d9&border_radius=10">
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak">
+</picture>
 </p>
 
 </div>
@@ -136,10 +151,13 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true#gh-dark-mode-only" alt="Trophies"/>
-    <img src="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true#gh-light-mode-only" alt="Trophies"/>
-  </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true">
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies">
+</picture>
+</a>
 </p>
 
 </div>
@@ -179,8 +197,11 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <div align="center">
 
 <!-- Activity Graph (theme-aware) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&theme=tokyo-night&hide_border=true&area=true#gh-dark-mode-only" width="95%" alt="Activity Graph" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&theme=minimal&hide_border=true&area=true#gh-light-mode-only" width="95%" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&theme=tokyo-night&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&theme=minimal&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph">
+</picture>
 
 </div>
 
@@ -191,8 +212,11 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <div align="center">
 
 <!-- Footer Wave (theme-aware) -->
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn#gh-dark-mode-only" />
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe,50:ddd6fe,100:c4b5fd&height=120&section=footer&animation=fadeIn#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe,50:ddd6fe,100:c4b5fd&height=120&section=footer&animation=fadeIn">
+  <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn">
+</picture>
 
 *"First, solve the problem. Then, write the code." – John Johnson*
 
