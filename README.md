@@ -18,9 +18,7 @@
 
 </div>
 
-
 ---
-
 
 ## 🧑‍💻 About Me
 
@@ -52,9 +50,7 @@ public:
 };
 ```
 
-
 ---
-
 
 ## 🛠️ Tech Stack & Skills
 
@@ -81,9 +77,7 @@ public:
 
 </div>
 
-
 ---
-
 
 ## 📊 Skill Proficiency
 
@@ -96,9 +90,7 @@ Laravel      ██████████████░░░░░░   70% 
 Node.js      ████████░░░░░░░░░░░░   35%   Beginner (Growing 🌱)
 ```
 
-
 ---
-
 
 ## 📈 GitHub Stats
 
@@ -110,37 +102,42 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" height="170"/>
-</p>
+<!--
+  Fixed-width table instead of two free-floating images.
+  This is the key fix: each cell is locked to 49% width, so the
+  two cards stay perfectly aligned no matter how wide the page
+  renders (logged-in dashboard vs. logged-out public layout).
+-->
+<table width="100%">
+  <tr>
+    <td width="49%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+    </td>
+    <td width="49%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=basit-shahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak"/>
-</p>
+<br/>
+
+<img width="80%" src="https://readme-stats-fast.vercel.app/api/streak/?username=basit-shahid&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=0891b2&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
-
 ---
-
 
 ## 🏆 Open Source Trophies
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-  </a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy-kappa.vercel.app/?username=basit-shahid&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
+</a>
 
 </div>
 
-
 ---
-
 
 ## 🎯 Current Focus
 
@@ -152,9 +149,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 🎓  Staying consistent with university coursework @ COMSATS SP25
 ```
 
-
 ---
-
 
 ## 📫 Connect With Me
 
@@ -166,9 +161,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
@@ -177,13 +170,9 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 
 </div>
 
-
 ---
 
-
 <div align="center">
-
-
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
