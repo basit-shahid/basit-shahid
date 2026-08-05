@@ -174,7 +174,7 @@ Node.js      ████████░░░░░░░░░░░░   35% 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://ghchart.rshah.org/58A6FF/basit-shahid"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/>
 
 </div>
 
