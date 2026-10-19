@@ -7,6 +7,8 @@
 **Software Engineering student at COMSATS University Islamabad, Lahore Campus.**<br />
 Building with Laravel and PHP. Thinking in data structures, objects, and systems.
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=71F4C0&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=55&amp;lines=Building+with+purpose.;Laravel+%26+PHP+%7C+Backend+development;C%2B%2B+%26+Java+%7C+Problem+solving;Always+learning.+Always+building." width="620" alt="Animated introduction: building with purpose; Laravel and PHP backend development; C++ and Java problem solving; always learning" />
+
 <br />
 
 <a href="mailto:basitdogar59@gmail.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s_talk-71F4C0?style=for-the-badge&amp;logo=gmail&amp;logoColor=71F4C0&amp;labelColor=101E32" alt="Email me" /></a>
@@ -15,7 +17,13 @@ Building with Laravel and PHP. Thinking in data structures, objects, and systems
 
 <br /><br />
 
-[About](#about) &nbsp; / &nbsp; [Work](#explore-my-work) &nbsp; / &nbsp; [Toolkit](#my-toolkit) &nbsp; / &nbsp; [Currently](#what-im-working-toward) &nbsp; / &nbsp; [Contact](#lets-build-something-useful)
+<img src="https://komarev.com/ghpvc/?username=basit-shahid&amp;label=PROFILE+VIEWS&amp;color=238b72&amp;style=flat-square" alt="GitHub profile view counter" />
+<a href="https://github.com/basit-shahid?tab=followers"><img src="https://img.shields.io/github/followers/basit-shahid?label=Followers&amp;style=flat-square&amp;color=71F4C0&amp;labelColor=101E32" alt="GitHub followers" /></a>
+<a href="https://github.com/basit-shahid?tab=repositories"><img src="https://img.shields.io/github/stars/basit-shahid?label=Repository%20stars&amp;style=flat-square&amp;color=75BAFF&amp;labelColor=101E32" alt="Total stars across my GitHub repositories" /></a>
+
+<br /><br />
+
+[About](#about) &nbsp; / &nbsp; [Work](#explore-my-work) &nbsp; / &nbsp; [Toolkit](#my-toolkit) &nbsp; / &nbsp; [Currently](#what-im-working-toward) &nbsp; / &nbsp; [Activity](#github-in-motion) &nbsp; / &nbsp; [Contact](#lets-build-something-useful)
 
 </div>
 
@@ -77,6 +85,14 @@ C++ and Java, object-oriented programming, and algorithmic problem solving—the
 
 <br />
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,php,js,laravel,nodejs,html,css,git,github,vscode,idea,postman&amp;perline=7" width="360" alt="Technology icons: C++, Java, PHP, JavaScript, Laravel, Node.js, HTML, CSS, Git, GitHub, VS Code, IntelliJ IDEA, and Postman" />
+
+</div>
+
+<br />
+
 ## What I'm working toward
 
 - **Stronger backend engineering:** exploring REST APIs, database design, and maintainable Laravel applications.
@@ -85,6 +101,60 @@ C++ and Java, object-oriented programming, and algorithmic problem solving—the
 - **Complete projects:** connecting implementation, documentation, and deployment.
 
 I'm open to collaborating on projects where I can contribute, learn from others, and solve a useful problem.
+
+<br />
+
+## GitHub in motion
+
+A live look at my public GitHub activity, languages, and coding consistency.
+
+<div align="center">
+
+<a href="https://github.com/basit-shahid?tab=overview">
+<img src="https://github-readme-stats.vercel.app/api?username=basit-shahid&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101E32&amp;title_color=71F4C0&amp;icon_color=75BAFF&amp;text_color=C1CFDF&amp;ring_color=71F4C0" width="490" alt="Live GitHub statistics for basit-shahid" />
+</a>
+<a href="https://github.com/basit-shahid?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-shahid&amp;layout=compact&amp;hide_border=true&amp;bg_color=101E32&amp;title_color=71F4C0&amp;text_color=C1CFDF&amp;langs_count=8" width="350" alt="Most used languages across my public GitHub repositories" />
+</a>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=basit-shahid&amp;hide_border=true&amp;background=101E32&amp;ring=71F4C0&amp;fire=75BAFF&amp;currStreakLabel=71F4C0&amp;sideLabels=C1CFDF&amp;currStreakNum=F2F7FF&amp;sideNums=F2F7FF&amp;dates=93A8BF" width="600" alt="GitHub contribution streak, including current streak, longest streak, and total contributions" />
+
+</div>
+
+### Contribution landscape
+
+<a href="https://github.com/basit-shahid?tab=overview">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basit-shahid&amp;bg_color=101E32&amp;color=C1CFDF&amp;line=71F4C0&amp;point=75BAFF&amp;area=true&amp;area_color=71F4C0&amp;hide_border=true&amp;custom_title=Building%20one%20commit%20at%20a%20time" width="100%" alt="Graph of my recent public GitHub contribution activity" />
+</a>
+
+### A little motion, powered by contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basit-shahid/basit-shahid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/basit-shahid/basit-shahid/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/basit-shahid/basit-shahid/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake moving through my GitHub contribution calendar" />
+</picture>
+
+<sub>Generated daily by my <a href="https://github.com/basit-shahid/basit-shahid/actions/workflows/snake.yml">contribution snake workflow</a>. <a href="https://github.com/basit-shahid?tab=overview">View my GitHub contribution calendar ↗</a></sub>
+
+### Milestones & achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=basit-shahid&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=4" width="800" alt="Automatically generated GitHub milestone trophies based on public profile activity" />
+
+[View my GitHub achievements ↗](https://github.com/basit-shahid?tab=achievements)
+
+</div>
+
+<details>
+<summary>About these live cards</summary>
+
+Stats, streaks, trophies, icons, and the view counter are supplied by external services and may be cached or temporarily unavailable. The view counter records visits since it was added; it is not a count of unique visitors. Language cards reflect repository code composition. Trophies are generated by a third-party service; GitHub's own achievements are linked above.
+
+</details>
 
 <br />
 
