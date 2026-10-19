@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abdul Basit Shahid — Software Engineering</title>
+  <desc id="desc">A navy portfolio banner with mint typography and a geometric engineering motif. Lahore, Pakistan. Code with purpose.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#080f1c"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#71f4c0"/><stop offset="1" stop-color="#75baff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#a7c4df" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="54" y="58" width="32" height="3" rx="1.5" fill="#71f4c0"/>
+  <text x="100" y="65" fill="#71f4c0" font-family="monospace" font-size="13" letter-spacing="3">THE PORTFOLIO / BASIT SHAHID</text>
+  <text x="54" y="142" fill="#f2f7ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Abdul Basit Shahid.</text>
+  <text x="57" y="190" fill="#c1cfdf" font-family="Arial, Helvetica, sans-serif" font-size="24">Building software. Understanding the systems behind it.</text>
+  <text x="57" y="242" fill="#71f4c0" font-family="monospace" font-size="15" letter-spacing="1">BACKEND DEVELOPMENT / PROBLEM SOLVING / SOFTWARE DESIGN</text>
+  <path d="M57 280 H766" stroke="#29394d"/>
+  <text x="57" y="313" fill="#93a8bf" font-family="monospace" font-size="13" letter-spacing="1">SOFTWARE ENGINEERING STUDENT</text>
+  <text x="766" y="313" text-anchor="end" fill="#93a8bf" font-family="monospace" font-size="13">LAHORE, PK</text>
+  <g transform="translate(1005 175)" fill="none">
+    <circle r="116" stroke="#253c51"/>
+    <circle r="87" stroke="#253c51" stroke-dasharray="4 9"/>
+    <rect x="-61" y="-61" width="122" height="122" rx="22" transform="rotate(-15)" stroke="url(#accent)" stroke-width="2"/>
+    <path d="m-25-19-22 19 22 19 M25-19 47 0 25 19 M10-31-10 31" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="116" r="5" fill="#71f4c0"/>
+    <circle cy="-116" r="4" fill="#75baff"/>
+  </g>
+</svg>
