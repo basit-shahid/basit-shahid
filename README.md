@@ -123,12 +123,6 @@ A live look at my public GitHub activity, languages, and coding consistency.
 
 </div>
 
-### Contribution landscape
-
-<a href="https://github.com/basit-shahid?tab=overview">
-<img src="./assets/contribution-calendar.svg" width="100%" alt="Repository-hosted calendar of my GitHub contributions over the past year" />
-</a>
-
 ### A little motion, powered by contributions
 
 <picture>
@@ -154,7 +148,7 @@ Measured progress from my public contribution calendar. GitHub achievement badge
 <details>
 <summary>About these live cards</summary>
 
-The contribution calendar and activity milestones are SVGs stored in this repository, refreshed daily by [GitHub Actions](https://github.com/basit-shahid/basit-shahid/actions/workflows/profile-activity.yml) using GitHub’s public calendar. They remain visible if a refresh fails; the date range is printed on each card. No external card service, API key, or package dependency is used for either image.
+The activity milestones are an SVG stored in this repository, refreshed daily by [GitHub Actions](https://github.com/basit-shahid/basit-shahid/actions/workflows/profile-activity.yml) using GitHub’s public calendar. The card remains visible if a refresh fails; its date range is printed on the image. No external card service, API key, or package dependency is used for the milestones.
 
 The other stats, streaks, icons, and view counter use external services and may be cached or temporarily unavailable. The view counter records visits since it was added; it is not a count of unique visitors. Language cards reflect repository code composition. GitHub's own achievements are linked above.
 

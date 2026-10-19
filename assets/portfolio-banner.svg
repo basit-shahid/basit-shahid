@@ -1,11 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Abdul Basit Shahid — Software Engineering</title>
-  <desc id="desc">A navy portfolio banner with mint typography and a geometric engineering motif. Lahore, Pakistan. Code with purpose.</desc>
+  <desc id="desc">A navy portfolio banner with mint typography and an animated dimensional code emblem and revolving bubbles. Lahore, Pakistan. Code with purpose.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#080f1c"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#71f4c0"/><stop offset="1" stop-color="#75baff"/></linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#a7c4df" stroke-opacity=".055"/></pattern>
+    <linearGradient id="tile" x2="1" y2="1"><stop stop-color="#243e54"/><stop offset="1" stop-color="#101c2e"/></linearGradient>
+    <radialGradient id="mint-bubble" cx="30%" cy="25%"><stop stop-color="#e2fff6"/><stop offset=".35" stop-color="#71f4c0"/><stop offset="1" stop-color="#167b70"/></radialGradient>
+    <radialGradient id="blue-bubble" cx="30%" cy="25%"><stop stop-color="#eff8ff"/><stop offset=".35" stop-color="#75baff"/><stop offset="1" stop-color="#294d96"/></radialGradient>
   </defs>
+  <style>
+    .code-model { animation: float-turn 7s ease-in-out infinite; }
+    .model-shadow { animation: shadow-breathe 7s ease-in-out infinite; transform-origin: 0px 105px; }
+    .bubble { animation: orbit 9s linear infinite; }
+    .bubble-two { animation-delay: -3s; animation-duration: 12s; }
+    .bubble-three { animation-delay: -6s; animation-duration: 15s; }
+    @keyframes float-turn {
+      0%, 100% { transform: translate(0px, 0px) skewY(-7deg) scaleX(.94); }
+      25% { transform: translate(0px, -8px) skewY(0deg) scaleX(1); }
+      50% { transform: translate(0px, 0px) skewY(7deg) scaleX(.94); }
+      75% { transform: translate(0px, 8px) skewY(0deg) scaleX(1); }
+    }
+    @keyframes shadow-breathe {
+      0%, 50%, 100% { transform: scaleX(1); opacity: .35; }
+      25% { transform: scaleX(.85); opacity: .2; }
+      75% { transform: scaleX(1.1); opacity: .45; }
+    }
+    @keyframes orbit {
+      0%, 100% { transform: translate(120px, -36px) scale(.85); opacity: .85; }
+      12.5% { transform: translate(78px, -77px) scale(.65); opacity: .5; }
+      25% { transform: translate(-10px, -73px) scale(.55); opacity: .35; }
+      37.5% { transform: translate(-92px, -26px) scale(.65); opacity: .5; }
+      50% { transform: translate(-120px, 36px) scale(.85); opacity: .85; }
+      62.5% { transform: translate(-78px, 77px) scale(1.1); opacity: 1; }
+      75% { transform: translate(10px, 73px) scale(1.25); opacity: 1; }
+      87.5% { transform: translate(92px, 26px) scale(1.1); opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .code-model, .model-shadow, .bubble { animation: none; }
+    }
+  </style>
   <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
   <rect x="54" y="58" width="32" height="3" rx="1.5" fill="#71f4c0"/>
@@ -17,11 +51,20 @@
   <text x="57" y="313" fill="#93a8bf" font-family="monospace" font-size="13" letter-spacing="1">SOFTWARE ENGINEERING STUDENT</text>
   <text x="766" y="313" text-anchor="end" fill="#93a8bf" font-family="monospace" font-size="13">LAHORE, PK</text>
   <g transform="translate(1005 175)" fill="none">
-    <circle r="116" stroke="#253c51"/>
-    <circle r="87" stroke="#253c51" stroke-dasharray="4 9"/>
-    <rect x="-61" y="-61" width="122" height="122" rx="22" transform="rotate(-15)" stroke="url(#accent)" stroke-width="2"/>
-    <path d="m-25-19-22 19 22 19 M25-19 47 0 25 19 M10-31-10 31" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="116" r="5" fill="#71f4c0"/>
-    <circle cy="-116" r="4" fill="#75baff"/>
+    <circle r="124" stroke="#253c51" stroke-dasharray="2 10"/>
+    <ellipse rx="126" ry="69" transform="rotate(-20)" stroke="#34556b"/>
+    <ellipse rx="106" ry="92" transform="rotate(38)" stroke="#253c51" stroke-dasharray="5 9"/>
+    <ellipse class="model-shadow" cy="105" rx="60" ry="9" fill="#000915" opacity=".35"/>
+    <g class="code-model">
+      <rect x="-53" y="-51" width="122" height="122" rx="22" fill="#07101e" stroke="#29475c" stroke-width="2"/>
+      <path d="M-52 47 -44 57 M53-48 64-37 M54 49 64 60" stroke="#41677c" stroke-width="5"/>
+      <rect x="-61" y="-61" width="122" height="122" rx="22" fill="url(#tile)" stroke="url(#accent)" stroke-width="2"/>
+      <path d="M-44-44 H15" stroke="#b9ffe8" stroke-opacity=".3" stroke-width="2" stroke-linecap="round"/>
+      <path d="m-25-19-22 19 22 19 M25-19 47 0 25 19 M10-31-10 31" transform="translate(2 4)" stroke="#060e1b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="m-25-19-22 19 22 19 M25-19 47 0 25 19 M10-31-10 31" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g class="bubble" transform="translate(120 -36)"><circle r="12" fill="url(#mint-bubble)"/><circle cx="-3" cy="-4" r="3" fill="#fff" opacity=".6"/></g>
+    <g class="bubble bubble-two" transform="translate(-92 -26)"><circle r="9" fill="url(#blue-bubble)"/><circle cx="-2" cy="-3" r="2" fill="#fff" opacity=".6"/></g>
+    <g class="bubble bubble-three" transform="translate(10 73)"><circle r="6" fill="url(#mint-bubble)"/></g>
   </g>
 </svg>
