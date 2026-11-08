@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">File transfer — connected devices</title>
+  <rect x=".5" y=".5" width="47" height="47" rx="12" fill="#111820" stroke="#35414f"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7">
+    <rect x="9" y="13" width="9" height="21" rx="2" stroke="#8bbfff"/>
+    <rect x="30" y="13" width="9" height="21" rx="2" stroke="#8bbfff"/>
+    <path d="M13 30h1M34 30h1" stroke="#8bbfff"/>
+    <path d="M20 19h8m-3-3 3 3-3 3M28 28h-8m3-3-3 3 3 3" stroke="#c4f566"/>
+  </g>
+</svg>

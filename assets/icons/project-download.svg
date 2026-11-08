@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Download manager — download into a tray</title>
+  <rect x=".5" y=".5" width="47" height="47" rx="12" fill="#111820" stroke="#35414f"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
+    <path d="M24 11v17m-6-6 6 6 6-6" stroke="#c4f566"/>
+    <path d="M13 26v8a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-8M17 32h2M23 32h2" stroke="#8bbfff"/>
+  </g>
+</svg>
