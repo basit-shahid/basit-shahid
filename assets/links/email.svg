@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="38" viewBox="0 0 136 38" role="img" aria-labelledby="title desc">
+  <title id="title">Email me</title><desc id="desc">Send an email to Abdul Basit Shahid</desc>
+  <rect x=".5" y=".5" width="135" height="37" rx="8" fill="#111820" stroke="#35414f"/>
+  <g stroke="#c4f566" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="14" y="12" width="19" height="14" rx="3"/><path d="m15 14 8.5 6 8.5-6"/></g>
+  <text x="43" y="24" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Email me</text>
+  <path d="M116 23l7-7m-6 0h6v6" fill="none" stroke="#8b98a8" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

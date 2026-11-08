@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Blog application — document and pen</title>
+  <rect x=".5" y=".5" width="47" height="47" rx="12" fill="#111820" stroke="#35414f"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7">
+    <path d="M24 12H15a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h17a2 2 0 0 0 2-2v-9M18 19h5M18 24h4M18 29h9" stroke="#8bbfff"/>
+    <path d="m25 24 2-6 8-8a2.1 2.1 0 0 1 3 3l-8 8-5 3Zm8-12 3 3" stroke="#c4f566"/>
+  </g>
+</svg>
